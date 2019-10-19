@@ -1,5 +1,6 @@
 // A function that returns its
 // argument negated
+#include <stdio.h>
 int negate(int a) {
     return (-1) * a;
 }
